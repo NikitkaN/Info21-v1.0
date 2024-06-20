@@ -1,0 +1,13 @@
+id,Check,checkingpeer,state,time
+1,1,williamc,Start,10:00:00
+2,1,williamc,Success,10:45:00
+3,2,keygench,Start,12:45:00
+4,2,keygench,Fail,14:00:00
+5,3,lowellda,Start,23:00:00
+6,3,lowellda,Success,23:30:00
+7,4,brittnyc,Start,01:00:00
+8,4,brittnyc,Success,01:37:00
+9,5,maplesar,Start,13:00:00
+10,5,maplesar,Success,13:52:00
+11,6,brittnyc,Start,22:00:00
+12,6,brittnyc,Success,22:34:00
